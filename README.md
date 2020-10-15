@@ -1,7 +1,7 @@
 ### BÀI 2
 1) Remix bài 1
 2) Viết logic sao cho nếu người dùng nhập vào > 10 ký tự thì border của input đổi màu sang `#F00`
-
+![Image](https://media.giphy.com/media/qedxHJja2Yuu9LFDzt/giphy.gif)
 
 
 
